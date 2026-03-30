@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0d1117&height=200&section=header&text=Dhanush%20Reddy&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=QA%20Engineer%20%7C%20Automation%20Tester%20%7C%20RPA%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=🧪+QA+Engineer+%7C+Automation+Specialist;🤖+RPA+Developer+(UiPath);⚙️+Selenium+4+%2B+TestNG+Expert;📬+API+Testing+with+Postman;🏆+Top-3+National+Hackathon+Finalist;🛠️+Building+AI-Powered+Test+Frameworks" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00B4D8&lines=QA+Engineer+%7C+Automation+Tester;Selenium+%2B+TestNG;API+Testing+with+Postman;RPA+Developer+(UiPath);AI+Test+Automation;Hackathon+Finalist&center=true&width=700&height=50" />
 
 <br/>
 
