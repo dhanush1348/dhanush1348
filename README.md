@@ -180,7 +180,7 @@ Tech Stack: Django REST Framework | PostgreSQL | Python
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhanush1348&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=C9D1D9" />
+<img src="https://streak-stats.demolab.com/?user=dhanush1348&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" width="49%" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush1348&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=C9D1D9" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanush1348&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" width="49%" />
