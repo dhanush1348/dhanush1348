@@ -178,8 +178,6 @@ Tech Stack: Django REST Framework | PostgreSQL | Python
 
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
-
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.as93.net/api?username=dhanush1348&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=C9D1D9" />
