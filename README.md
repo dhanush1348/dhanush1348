@@ -206,6 +206,18 @@ Tech Stack: Django REST Framework | PostgreSQL | Python
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhanush1348/dhanush1348/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/dhanush1348/dhanush1348/output/github-contribution-grid-snake.svg" />
 </picture>
+
+[⬇️ Download Snake GIF](https://raw.githubusercontent.com/dhanush1348/dhanush1348/output/github-contribution-grid-snake.gif)
+
+```html
+<iframe
+  src="https://dhanush1348.github.io/dhanush1348/snake-embed.html"
+  width="100%"
+  height="260"
+  frameborder="0"
+  scrolling="no"
+></iframe>
+```
 </div>
 
 ---

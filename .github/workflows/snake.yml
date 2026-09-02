@@ -19,7 +19,12 @@ jobs:
           github_user_name: dhanush1348
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif
+            dist/github-contribution-grid-snake-dark.gif?palette=github-dark
+
+      - name: Add GitHub Pages embed file
+        run: cp snake-embed.html dist/snake-embed.html
 
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v4   # ✅ updated action
